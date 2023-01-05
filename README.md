@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction Using Machine Learning Model
 
 ## Purpose
 According to the Mayo Clinic, heart disease can discribe several condition with the heart.  Some of these conditions are coronary 
