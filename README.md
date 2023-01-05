@@ -3,8 +3,8 @@
 ## Purpose
 According to the Mayo Clinic, heart disease can discribe several condition with the heart.  Some of these conditions are coronary 
 artery disease (CAD), irregular heartbeats (arrhythmias), birth defects (congenital heart defects), disease of the heart muscle, 
-or heart valve disease.  Some of the contributing factors of heart disease are cholesterol deposits (plaques) in the arteries,  These
-plaques bukid up on block the blood flow from the heart.  Some of the symtoms of heart disease can be:
+or heart valve disease.  Some of the contributing factors of heart disease are cholesterol deposits (plaques) in the arteries.  These
+plaques build up and block the blood flow from the heart.  Some of the symtoms of heart disease can be:
  *  Chest pain, chest tightness, chest pressure and chest discomfort (angina)
  *  Shortness of breath
  *  Pain in the neck, jaw, throat, upper belly area or back
