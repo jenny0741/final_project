@@ -9,16 +9,21 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  *  Shortness of breath
  *  Pain in the neck, jaw, throat, upper belly area or back
  *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
+ 
+ _Source:_  https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
 
 ## Research Question(s)
-1. Does the age of the patient contribute to a of a heart attack?
+1. Does the age of the patient contribute to a heart attack?
 2. Does the level of blood sugar (FBS) in the patient contribute to a heart attack?
 3. Does a higher cholestoral level contribute to a heart attack?
+4. Can the level of chest pain be related to the risk of a heart attack?
 
 ## Data Source
-Data files were sourced from the UCI Machine Learning Repository.   The sata files were coverted to csv files and cleaned before analysis.
+Data files were sourced from the UCI Machine Learning Repository.   The data files were coverted to csv files and cleaned before analysis.
 
--Attribute Information:
+_Source_ https://ieee-dataport.org/documents/cardiovascular-disease-dataset
+
+# Dataset Information
 
  * Age:  Age of Patient
  * Sex:  Sex of Patient
