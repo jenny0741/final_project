@@ -28,7 +28,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
 ## Data Source
 Data files were sourced from the UCI Machine Learning Repository.   The data files were coverted to csv files and cleaned before analysis.
 
-[I'm an inline-style link](final_project/Resources/processed_cleveland.csv)
+[I'm an inline-style link](../Resources/processed_cleveland.csv)
 
 [I'm an inline-style link](https://www.google.com)
 
