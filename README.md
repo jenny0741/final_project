@@ -28,11 +28,11 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
 ## Data Source
 Data files were sourced from the UCI Machine Learning Repository.   The data files were coverted to csv files and cleaned before analysis.
 
-[I'm an inline-style link](Resources/processed_cleveland.csv)
+[Cleaveland dataset](Resources/processed_cleveland.csv)
 
-[I'm an inline-style link](Resources/processed_va.csv)
+[](Resources/processed_va.csv)
 
-[I'm an inline-style link](https://www.google.com)
+[Hungarian dataset](Resources/reprocessed_hungarian.csv)
 
 _Source_ https://ieee-dataport.org/documents/cardiovascular-disease-dataset
 
