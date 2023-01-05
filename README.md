@@ -23,7 +23,7 @@ Data files were sourced from the UCI Machine Learning Repository.   The data fil
 
 _Source_ https://ieee-dataport.org/documents/cardiovascular-disease-dataset
 
-# Dataset Information
+## Dataset Information
 
  * Age:  Age of Patient
  * Sex:  Sex of Patient
