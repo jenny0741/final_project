@@ -1,9 +1,19 @@
 # Heart Disease Prediction
 
 ## Purpose
+According to the Mayo Clinic, heart disease can discribe several condition with the heart.  Some of these conditions are coronary 
+artery disease (CAD), irregular heartbeats (arrhythmias), birth defects (congenital heart defects), disease of the heart muscle, 
+or heart valve disease.  Some of the contributing factors of heart disease are cholesterol deposits (plaques) in the arteries,  These
+plaques bukid up on block the blood flow from the heart.  Some of the symtoms of heart disease can be:
+ *  Chest pain, chest tightness, chest pressure and chest discomfort (angina)
+ *  Shortness of breath
+ *  Pain in the neck, jaw, throat, upper belly area or back
+ *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
 
 ## Research Question(s)
-1. Does the age of a person affect the chances of heart disease?
+1. Does the age of the patient contribute to a of a heart attack?
+2. Does the level of blood sugar (FBS) in the patient contribute to a heart attack?
+3. Does a higher cholestoral level contribute to a heart attack?
 
 ## Data Source
 Data files were sourced from the UCI Machine Learning Repository.   The sata files were coverted to csv files and cleaned before analysis.
