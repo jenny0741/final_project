@@ -1,6 +1,6 @@
 # Heart Disease Prediction Using Machine Learning Model
 
-## Purpose
+## Introduction
 According to the Mayo Clinic, heart disease can discribe several condition with the heart.  Some of these conditions are coronary 
 artery disease (CAD), irregular heartbeats (arrhythmias), birth defects (congenital heart defects), disease of the heart muscle, 
 or heart valve disease.  Some of the contributing factors of heart disease are cholesterol deposits (plaques) in the arteries.  These
@@ -11,6 +11,13 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
  
  _Source:_  https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
+ 
+ ## Purpose
+ 
+ Use the dataset from the IEEE DataPort, which include the Cleveland and Hungarian (UCI Machine Learning Repository) to create a machine
+ learning anaylysis. These analysis will use the various features of the dataset to predict wheather a patient has a likelihood of having
+ a heart attack.   The dataset must first be processed using exploratory data analysis (EDA).   Once the datasets have been cleaned and corrected
+ for scale, the diagnosis of heart disease (num) can be accomplished by using different machine learning algorithms.
 
 ## Research Question(s)
 1. Does the age of the patient contribute to a heart attack?
