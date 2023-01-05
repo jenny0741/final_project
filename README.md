@@ -30,9 +30,9 @@ Data files were sourced from the UCI Machine Learning Repository.   The data fil
 
 [Cleaveland dataset](Resources/processed_cleveland.csv)
 
-[VA dataset](Resources/processed_va.csv)
-
 [Hungarian dataset](Resources/reprocessed_hungarian.csv)
+
+[VA dataset](Resources/processed_va.csv)
 
 _Source_ https://ieee-dataport.org/documents/cardiovascular-disease-dataset
 
