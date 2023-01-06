@@ -36,9 +36,9 @@ location with heart disease.
 
 [Switzerland dataset csv](Resources/processed_switzerland.csv)
 
-[Hungarian dataset csv](Resources/reprocessed_hungarian.csv)
-
 [VA dataset csv](Resources/processed_va.csv)
+
+[Hungarian dataset csv](Resources/reprocessed_hungarian.csv)
 
 _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
 
