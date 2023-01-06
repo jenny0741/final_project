@@ -28,13 +28,17 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
 
 ## Data Source
 Data files were sourced from the UCI Machine Learning Repository.   The dataset were in csv formate which were imported into Pandas for cleaning
-before analysis.   There were a lorg amount of 
+before analysis.   The dataset had columns which contained null values.   These columns included ca and thal.   These columns were dopped from all
+four datasets.   We also added a columns for location.   Since the datasets were regional, the dataset can be used to further corrolate geogrphical
+location with heart disease.
 
 [Cleaveland dataset csv](Resources/processed_cleveland.csv)
 
 [Hungarian dataset csv](Resources/reprocessed_hungarian.csv)
 
 [VA dataset csv](Resources/processed_va.csv)
+
+[Switzerland dataset csv](Resources/processed_switzerland.csv)
 
 _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
 
@@ -51,8 +55,8 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  * exang:  Exercise Induced Angina (1=yes, 0= no)
  * oldpeak:  ST Depression induced by exercise relative to rest
  * slope:  the slope of the peak exercise ST segment
- * ca:  number of major vessels (1-3)
- * thal: maximum heart rate achieved
+ * ca:  number of major vessels (1-3) DROPPED
+ * thal: maximum heart rate achieved DROPPED
  * num:  diagnosis of heart disease
  
  ## Machine Learning Model
