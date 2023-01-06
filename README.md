@@ -50,7 +50,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  * oldpeak:  ST Depression induced by exercise relative to rest
  * slope:  the slope of the peak exercise ST segment
  * ca:  number of major vessels (1-3)
- * thal: 
+ * thal: maximum heart rate achieved
  * num:  diagnosis of heart disease
  
  ## Machine Learning Model
