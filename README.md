@@ -24,9 +24,11 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
 2. Does the level of blood sugar (FBS) in the patient contribute to a heart attack?
 3. Does a higher cholestoral level contribute to a heart attack?
 4. Can the level of chest pain be related to the risk of a heart attack?
+5. Does the location of the patient corrolate with the risk of heart disease?
 
 ## Data Source
-Data files were sourced from the UCI Machine Learning Repository.   The data files were coverted to csv files and cleaned before analysis.
+Data files were sourced from the UCI Machine Learning Repository.   The dataset were in csv formate which were imported into Pandas for cleaning
+before analysis.   There were a lorg amount of 
 
 [Cleaveland dataset csv](Resources/processed_cleveland.csv)
 
