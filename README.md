@@ -54,7 +54,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  * thalach:  Maximum Heart Rate Acheived
  * exang:  Exercise Induced Angina (1=yes, 0= no)
  * oldpeak:  ST Depression induced by exercise relative to rest
- * slope:  the slope of the peak exercise ST segment
+ * slope:  the slope of the peak exercise ST segment DROPPED
  * ca:  number of major vessels (1-3) DROPPED
  * thal: maximum heart rate achieved DROPPED
  * num:  diagnosis of heart disease
