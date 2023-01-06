@@ -14,9 +14,9 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  
  ## Purpose
  
- Use the dataset from the UCI Machine Learning Repository, which include the Cleveland and Hungarian to create a machine
+ Use the dataset from the UCI Machine Learning Repository, which include the Cleveland, Hungarian, VA, and Switzerland to create a machine
  learning anaylysis. These analysis will use the various features of the dataset to predict wheather a patient has a likelihood of having
- a heart attack.   The dataset must first be processed using exploratory data analysis (EDA).   Once the datasets have been cleaned and corrected
+ a heart disease.   The dataset must first be processed using exploratory data analysis (EDA).   Once the datasets have been cleaned and corrected
  for scale, the diagnosis of heart disease (num) can be accomplished by using different machine learning algorithms.
 
 ## Research Question(s)
