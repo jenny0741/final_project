@@ -28,7 +28,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
 
 ## Data Source
 Data files were sourced from the UCI Machine Learning Repository.   The dataset were in csv formate which were imported into Pandas for cleaning
-before analysis.   The dataset had columns which contained null values.   These columns included ca and thal.   These columns were dopped from all
+before analysis.   The dataset had columns which contained null values.   These columns included ca, thal, and slope   These columns were dopped from all
 four datasets.   We also added a columns for location.   Since the datasets were regional, the dataset can be used to further corrolate geogrphical
 location with heart disease.
 
