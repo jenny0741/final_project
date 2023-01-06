@@ -34,11 +34,11 @@ location with heart disease.
 
 [Cleaveland dataset csv](Resources/processed_cleveland.csv)
 
+[Switzerland dataset csv](Resources/processed_switzerland.csv)
+
 [Hungarian dataset csv](Resources/reprocessed_hungarian.csv)
 
 [VA dataset csv](Resources/processed_va.csv)
-
-[Switzerland dataset csv](Resources/processed_switzerland.csv)
 
 _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
 
