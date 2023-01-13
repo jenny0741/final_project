@@ -1,7 +1,7 @@
 # Heart Disease Prediction Using Machine Learning Model
 
 ## Introduction
-According to the Mayo Clinic, heart disease can describe several condition with the heart.  Some of these conditions are coronary 
+According to the Mayo Clinic, heart disease can describe several conditions with the heart.  Some of these conditions are coronary 
 artery disease (CAD), irregular heartbeats (arrhythmias), birth defects (congenital heart defects), disease of the heart muscle, 
 or heart valve disease.  Some of the contributing factors of heart disease are cholesterol deposits (plaques) in the arteries.  These
 plaques build up and block the blood flow from the heart.  Some of the symtoms of heart disease can be:
@@ -16,7 +16,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  
  Use the dataset from the UCI Machine Learning Repository, which include the Cleveland, Hungarian, VA, and Switzerland to create a machine
  learning anaylysis. These analysis will use the various features of the dataset to predict wheather a patient has a likelihood of having
- a heart disease.   The dataset must first be processed using exploratory data analysis (EDA).   Once the datasets have been cleaned and corrected
+ a heart disease.   The dataset must first be processed using exploratory data analysis (EDA). Once the datasets have been cleaned and corrected
  for scale, the diagnosis of heart disease (num) can be accomplished by using different machine learning algorithms.
 
 ## Research Question(s)
@@ -24,7 +24,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
 2. Does the level of blood sugar (FBS) in the patient contribute to a heart attack?
 3. Does a higher cholestoral level contribute to a heart attack?
 4. Can the level of chest pain be related to the risk of a heart attack?
-5. Does the location of the patient corrolate with the risk of heart disease?
+5. Does the location of the patient correlate with the risk of heart disease?
 
 ## Data Source
 Data files were sourced from the UCI Machine Learning Repository.   The dataset were in csv formate which were imported into Pandas for cleaning
