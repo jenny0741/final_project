@@ -59,7 +59,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  * thal: maximum heart rate achieved DROPPED
  * num:  diagnosis of heart disease
  
- ## SQL and database
+ ## SQL and Database
  
  [ElephantSQL](Resources/elephant.png)
  
