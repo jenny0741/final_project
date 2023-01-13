@@ -65,8 +65,12 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  [DBeaver](Resources/dbeaver.png)
  
+ [Server engine link](Resourses/server_link.png)
+ 
  ## Machine Learning Model
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
  discrete outcome.
+ 
+ [
