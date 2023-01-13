@@ -61,7 +61,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ## SQL and database
  
- [ElephantSQL](Resourses/elephant.png)
+ [ElephantSQL](Resources/elephant.png)
  
  ## Machine Learning Model
  
