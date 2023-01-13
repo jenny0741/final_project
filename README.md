@@ -63,6 +63,8 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  [ElephantSQL](Resources/elephant.png)
  
+ [DBeaver](Resources/dbeaver.png)
+ 
  ## Machine Learning Model
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
