@@ -73,4 +73,4 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
  discrete outcome.
  
- [
+ [Deep Neural](Resources/neural.png)
