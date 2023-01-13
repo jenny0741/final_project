@@ -65,7 +65,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  [DBeaver](Resources/dbeaver.png)
  
- [Server engine link](Resourses/server_link.png)
+ [Server engine link](Resources/server_link.png)
  
  ## Machine Learning Model
  
