@@ -59,6 +59,10 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  * thal: maximum heart rate achieved DROPPED
  * num:  diagnosis of heart disease
  
+ ## SQL and database
+ 
+ [ElephantSQL](Resourses/elephant)
+ 
  ## Machine Learning Model
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
