@@ -71,6 +71,6 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
- discrete outcome.
+ discrete outcome.  The first machine learning created for this dataset was deep neural learning.   THe accuracy from this model was really 
  
  [Deep Neural](Resources/neural.png)
