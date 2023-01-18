@@ -1,4 +1,5 @@
 # Heart Disease Prediction Using Machine Learning Model
+Presentation Link:
 
 ## Introduction
 According to the Mayo Clinic, heart disease can describe several conditions with the heart.  Some of these conditions are coronary 
@@ -81,6 +82,3 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  For the data visualization, the program Tableau was chosen.   
  Visualization Link:
  
- ## Presentation
- 
- Presentation Link:
