@@ -79,3 +79,8 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  ## Data Visualization
  
  For the data visualization, the program Tableau was chosen.   
+ Visualization Link:
+ 
+ ## Presentation
+ 
+ Presentation Link:
