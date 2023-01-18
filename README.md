@@ -1,5 +1,5 @@
 # Heart Disease Prediction Using Machine Learning Model
-Presentation Link: https://docs.google.com/presentation/d/1vfkKItc84_Lr9fVpbshKxXzubFteUbh5gQcvyLaHr-E/edit?usp=sharing
+Presentation Link: [Presentation](https://docs.google.com/presentation/d/1vfkKItc84_Lr9fVpbshKxXzubFteUbh5gQcvyLaHr-E/edit?usp=sharing)
 
 ## Introduction
 According to the Mayo Clinic, heart disease can describe several conditions with the heart.  Some of these conditions are coronary 
