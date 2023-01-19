@@ -81,7 +81,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  [Classification Matrix link](Resources/classification_matrix.png)
  
- [Bagging link](Resources/bagging.png)
+ ![Bagging link](https://github.com/jenny0741/final_project/blob/main/Resources/bagging.png)
  
  [Deep Neural](Resources/neural.png)
  
