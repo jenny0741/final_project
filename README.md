@@ -11,10 +11,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  *  Pain in the neck, jaw, throat, upper belly area or back
  *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
  
- According to the official CDC site, heart disease is the leading cause of death in the US. However, the risk of heart disease can be reduced based on changes in lifestyle, which is why our group chose to explore this topic. By predicting the chances of heart disease in an individual it could significantly reduce the risk of heart disease in the US. Utilizing such a tool would make diagnosing a patient easier and even applying preventitve measures prior to a diagnosis. 
- 
  _Source:_  https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
-            https://www.cdc.gov/heartdisease/
  
  ## Purpose
  
@@ -75,9 +72,34 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
- discrete outcome.  The first machine learning created for this dataset was deep neural learning.   The accuracy of this model was 19% which is far below
- an acceptable score.   Other learning models would include Decision Tree and Random Forest.
- 
+ discrete outcome.  One of the most important classification measures is confusion matrices.  The confusion matrix produces the four important numbers of 
+ true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  This predicted values are compared to the model actual values.
+  TP : 106
+  TN : 32
+  FP : 19
+  FN : 28
+  
+  	Pred 0	Pred 1
+Actual  0	106	19
+Actual  1	28	32
+  
+  Calculating the accuracy of the model can be done using the following equation:
+  
+  Accuracy = TP + TN / (TP + TN + FP + FN)
+  
+  Accuracy = 106 + 32 / (106 + 32 + 19 + 28)
+  
+  Accuracy = .75
+  
+  precision    recall  f1-score   support
+
+           0       0.79      0.85      0.82       125
+           1       0.63      0.53      0.58        60
+
+    accuracy                           0.75       185
+   macro avg       0.71      0.69      0.70       185
+weighted avg       0.74      0.75      0.74       185
+  
  <img src="Resources/confusion_matrix.png" width=700 height=400>
  
  <img src="Resources/bagging.png" width=700 height=400>
@@ -87,7 +109,6 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ## Data Visualization
  
- For the data visualization, the program Tableau was chosen. Visualization will present demographics data in relation to the diagnosis of the patient (having heart disease or not). A separate storyboard will display medical data vs. the diagnosis of the patient. These two storyboards will be used in parallel in visualizing possible trends that will aid in performing an accurate diagnosis of heart disease.
-
-Visualization Link:
+ For the data visualization, the program Tableau was chosen.   
+ Visualization Link:
  
