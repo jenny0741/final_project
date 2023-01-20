@@ -89,7 +89,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   Accuracy = .75
   
   
- <img src="Resources/confusion_matrix.png" width=700 height=400>
+ <img src="Resources/classification_matrix.png" width=700 height=400>
  
  <img src="Resources/bagging.png" width=700 height=400>
  
