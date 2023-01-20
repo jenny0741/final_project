@@ -75,15 +75,12 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  discrete outcome.  The first machine learning created for this dataset was deep neural learning.   The accuracy of this model was 19% which is far below
  an acceptable score.   Other learning models would include Decision Tree and Random Forest.
  
- [Confusion Matrix link](Resources/confusion_matrix.png)
- 
- [Neural Network link](Resources/neural_network.png)
- 
- [Classification Matrix link](Resources/classification_matrix.png)
+ <img src="Resources/confusion_matrix.png" width=700 height=400>
  
  <img src="Resources/bagging.png" width=700 height=400>
  
- [Deep Neural](Resources/neural.png)
+ <img src="Resources/neural.png" width=700 height=400>
+ 
  
  ## Data Visualization
  
