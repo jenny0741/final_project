@@ -84,7 +84,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ## Data Visualization
  
- For the data visualization, the program Tableau was chosen.
- Visualization will present demographics data in relation to the diagnosis of the patient (having heart disease). A separate storyboard will display medical data vs. the diagnosis of the patient. 
- Visualization Link:
+ For the data visualization, the program Tableau was chosen. Visualization will present demographics data in relation to the diagnosis of the patient (having heart disease or not). A separate storyboard will display medical data vs. the diagnosis of the patient. 
+
+Visualization Link:
  
