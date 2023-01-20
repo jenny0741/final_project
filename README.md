@@ -92,8 +92,6 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  <img src="Resources/classification_matrix.png" width=400 height=200>
  
- <img src="Resources/confusion_matrix.png" width=700 height=400>
- 
  <img src="Resources/neural_network.png" width=700 height=400>
  
  
