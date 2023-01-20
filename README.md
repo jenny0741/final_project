@@ -79,10 +79,6 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   FP : 19
   FN : 28
   
-  	Pred 0	Pred 1
-Actual  0	106	19
-Actual  1	28	32
-  
   Calculating the accuracy of the model can be done using the following equation:
   
   Accuracy = TP + TN / (TP + TN + FP + FN)
@@ -91,7 +87,7 @@ Actual  1	28	32
   
   Accuracy = .75
   
-  precision    recall  f1-score   support
+                precision    recall    f1-score   support
 
            0       0.79      0.85      0.82       125
            1       0.63      0.53      0.58        60
