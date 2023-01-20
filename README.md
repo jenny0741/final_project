@@ -101,5 +101,5 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  For the data visualization, the program Tableau was chosen. Two different dashboards will be used to visualize the data. One dashboard will present age demographics data vs. the diagnosis of the patient (heart disease or not). A second  will be used to display gender demographics vs. the diagnosis of the patient. The two will be placed into a storyboard with medical data vs. heart disease visualizations. The story will be used to find and display potential trends that could aid in predicting heart disease in patients. 
  
- Visualization Link: [Visualization](https://public.tableau.com/app/profile/jenny.tran2139/viz/Heart_Disease_Prediction/HeartDiseasePrediction?publish=yes)
+ Visualization Link: [Visualization](https://public.tableau.com/views/Heart_Disease_Prediction/HeartDiseasePrediction?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
  
