@@ -11,10 +11,14 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  *  Pain in the neck, jaw, throat, upper belly area or back
  *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
  
+ The CDC website states that heart disease is the leading cause of death in the US. However, with a change in lifestyle, the risk of developing heart disease can be greatly reduced. This is why our group chose this topic. By creating a machine learning tool that can predict heart disease, it would aid in diagnosing patients with heart disease quicker and also to put preventive measures in place prior to diagnosis.
+  
  _Source:_  https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
+           https://www.cdc.gov/heartdisease/index.htm
  
  ## Purpose
- 
+
+
  Use the dataset from the UCI Machine Learning Repository, which include the Cleveland, Hungarian, VA, and Switzerland to create a machine
  learning anaylysis. These analysis will use the various features of the dataset to predict wheather a patient has a likelihood of having
  a heart disease.   The dataset must first be processed using exploratory data analysis (EDA). Once the datasets have been cleaned and corrected
@@ -94,6 +98,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ## Data Visualization
  
- For the data visualization, the program Tableau was chosen.   
+ For the data visualization, the program Tableau was chosen. Two different storyboards will be used to visualize the data. One storyboard will present demographics data vs. the diagnosis of the patient (heart disease or not). A second storyboard will be used to display medical data vs. the diagnosis of the patient. The two will be used in parallel to find potential trends that could aid in predicting heart disease in patients. 
+ 
  Visualization Link:
  
