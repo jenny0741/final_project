@@ -11,7 +11,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  *  Pain in the neck, jaw, throat, upper belly area or back
  *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
  
- The CDC states that heart disease is the leading cause of death in the US. However, the risk of heart disease can be reduced based on changes in lifestyle, which is why our group chose to explore this topic. By predicting the chances of heart disease in an individual it could significantly reduce the risk of heart disease in the US. Utilizing such a tool would make diagnosing a patient easier and even applying preventitve measures prior to a diagnosis. 
+ According to the official CDC site, heart disease is the leading cause of death in the US. However, the risk of heart disease can be reduced based on changes in lifestyle, which is why our group chose to explore this topic. By predicting the chances of heart disease in an individual it could significantly reduce the risk of heart disease in the US. Utilizing such a tool would make diagnosing a patient easier and even applying preventitve measures prior to a diagnosis. 
  
  _Source:_  https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
             https://www.cdc.gov/heartdisease/
