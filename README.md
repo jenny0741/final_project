@@ -94,6 +94,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ## Data Visualization
  
- For the data visualization, the program Tableau was chosen.   
+ For the data visualization, the program Tableau was chosen. Two different storyboards will be used to visualize the data. One storyboard will present demographics data vs. the diagnosis of the patient (heart disease or not). A second storyboard will be used to display medical data vs. the diagnosis of the patient. The two will be used in parallel to find potential trends that could aid in predicting heart disease in patients. 
+ 
  Visualization Link:
  
