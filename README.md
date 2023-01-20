@@ -87,14 +87,6 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   Accuracy = .75
   
-                precision    recall    f1-score   support
-
-           0       0.79      0.85      0.82       125
-           1       0.63      0.53      0.58        60
-
-    accuracy                           0.75       185
-   macro avg       0.71      0.69      0.70       185
-weighted avg       0.74      0.75      0.74       185
   
  <img src="Resources/confusion_matrix.png" width=700 height=400>
  
