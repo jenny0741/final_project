@@ -74,10 +74,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
  discrete outcome.  One of the most important classification measures is confusion matrices.  The confusion matrix produces the four important numbers of 
  true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  This predicted values are compared to the model actual values.
-  TP : 106
-  TN : 32
-  FP : 19
-  FN : 28
+ 
   
   Calculating the accuracy of the model can be done using the following equation:
   
