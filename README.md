@@ -12,6 +12,7 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  *  Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in the effect areas are narrowed.
  
  _Source:_  https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
+            https://www.cdc.gov/heartdisease/index.htm
  
  ## Purpose
  
