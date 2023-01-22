@@ -86,7 +86,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
  <img src="Resources/confusion_matrix.png" width=300 height=200>
  
-   Calculating the accuracy of the model can be done using the following equation:
+   Calculating the accuracy:
   
   Accuracy = TP + TN / (TP + TN + FP + FN)
   
@@ -95,13 +95,38 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   Accuracy = .75
   
   
-   Calculating the precision of the model can be done using the following equation:
+   Calculating the precision:
    
   Precision = TP / TP + FP
   
   Precision = 106 / 106 + 28
   
   Precision = .79
+  
+   Calculating the recall:
+   
+  Recall = TP / TP + FN
+  
+  Recall = 106 / 106 + 19
+  
+  Recall = .85
+  
+   Calculating the specificity:
+   
+  Specificity = TN / TN + FP
+  
+  Specificty = 32 / 32 + 28
+  
+  Specificity = .53
+  
+   Calculating the F1 score:
+   
+  F1 score = 2TP / 2TP + FP + FN
+  
+  F1 score = 212 / 212 + 28 + 19
+  
+  F1 score = .82
+  
  
  <img src="Resources/classification_matrix.png" width=400 height=200>
  
