@@ -90,8 +90,6 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   Accuracy = TP + TN / (TP + TN + FP + FN)
   
-  Accuracy = 106 + 32 / (106 + 32 + 28 + 19)
-  
   Accuracy = .75
   
   
@@ -99,15 +97,11 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
    
   Precision = TP / TP + FP
   
-  Precision = 106 / 106 + 28
-  
   Precision = .79
   
    Calculating the recall:
    
   Recall = TP / TP + FN
-  
-  Recall = 106 / 106 + 19
   
   Recall = .85
   
@@ -115,15 +109,11 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
    
   Specificity = TN / TN + FP
   
-  Specificty = 32 / 32 + 28
-  
   Specificity = .53
   
    Calculating the F1 score:
    
   F1 score = 2TP / 2TP + FP + FN
-  
-  F1 score = 212 / 212 + 28 + 19
   
   F1 score = .82
   
