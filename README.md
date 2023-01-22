@@ -90,9 +90,17 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   Accuracy = TP + TN / (TP + TN + FP + FN)
   
-  Accuracy = 106 + 32 / (106 + 32 + 19 + 28)
+  Accuracy = 106 + 32 / (106 + 32 + 28 + 19)
   
   Accuracy = .75
+  
+    Calculating the precision of the model can be done using the following equation:
+   
+  Precision = TP / TP + FP
+  
+  Precision = 106 / 106 + 28
+  
+  Precision = .79
  
  <img src="Resources/classification_matrix.png" width=400 height=200>
  
