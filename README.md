@@ -115,7 +115,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ### Random Forest
  
- ![image](https://user-images.githubusercontent.com/33016314/213946133-987fcb5a-2f22-41ae-a0ef-257c3955282e.png)
+![image](https://github.com/jenny0741/final_project/blob/main/Resources/random_forest.png)
 
  
  ### Neural Network
