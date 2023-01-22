@@ -76,23 +76,29 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
- discrete outcome.  One of the most important classification measures is confusion matrices.  The confusion matrix produces the four important numbers of 
- true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  This predicted values are compared to the model actual values.
+ discrete outcome.  
  
+  ### Confusion Matrix
   
-  Calculating the accuracy of the model can be done using the following equation:
+  One of the most important classification measures is confusion matrices.  The confusion matrix produces the four important numbers of 
+ true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  This predicted values are compared to the model actual values.
+  
+  
+ <img src="Resources/confusion_matrix.png" width=300 height=200>
+ 
+   Calculating the accuracy of the model can be done using the following equation:
   
   Accuracy = TP + TN / (TP + TN + FP + FN)
   
   Accuracy = 106 + 32 / (106 + 32 + 19 + 28)
   
   Accuracy = .75
-  
- <img src="Resources/confusion_matrix.png" width=400 height=200>
  
  <img src="Resources/classification_matrix.png" width=400 height=200>
  
- <img src="Resources/neural_network.png" width=400 height=200>
+ ### Neural Network
+ 
+ <img src="Resources/neural_network.png" width=600 height=200>
  
  
  ## Data Visualization
