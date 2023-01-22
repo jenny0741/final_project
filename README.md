@@ -93,22 +93,22 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   #### Calculating the precision:
    
-  Precision = TP / TP + FP  Precision = .79
+  Precision = TP / TP + FP  **Precision = .79**
   
   
   #### Calculating the recall:
    
-  Recall = TP / TP + FN  Recall = .85
+  Recall = TP / TP + FN  **Recall = .85**
   
   
   #### Calculating the specificity:
    
-  Specificity = TN / TN + FP  Specificity = .53
+  Specificity = TN / TN + FP  **Specificity = .53**
   
   
   #### Calculating the F1 score:
    
-  F1 score = 2TP / 2TP + FP + FN  F1 score = .82
+  F1 score = 2TP / 2TP + FP + FN  **F1 score = .82**
   
   
  <img src="Resources/classification_matrix.png" width=400 height=200>
