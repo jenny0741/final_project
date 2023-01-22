@@ -113,9 +113,14 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
  <img src="Resources/classification_matrix.png" width=400 height=200>
  
+ ### Random Forest
+ 
+ ![image](https://user-images.githubusercontent.com/33016314/213946133-987fcb5a-2f22-41ae-a0ef-257c3955282e.png)
+
+ 
  ### Neural Network
  
- <img src="Resources/neural_network.png" width=600 height=200>
+ ![image](https://user-images.githubusercontent.com/33016314/213946129-f3007f68-bcb1-4490-9cd4-441d849983e7.png)
  
  
  ## Data Visualization
