@@ -88,7 +88,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
   #### Calculating the accuracy:
   
-  Accuracy = TP + TN / (TP + TN + FP + FN)  Accuracy = .75
+  Accuracy = TP + TN / (TP + TN + FP + FN)  **Accuracy = .75**
   
   
   #### Calculating the precision:
