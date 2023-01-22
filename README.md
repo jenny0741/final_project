@@ -120,7 +120,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ### Neural Network
  
- ![image](https://user-images.githubusercontent.com/33016314/213946129-f3007f68-bcb1-4490-9cd4-441d849983e7.png)
+ ![image](https://github.com/jenny0741/final_project/blob/main/Resources/deep_learnig_layers.png)
  
  
  ## Data Visualization
