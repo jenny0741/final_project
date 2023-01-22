@@ -66,7 +66,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ## SQL and Database
  
- [ElephantSQL](Resources/elephant.png)
+ [ElephantSQL](Resources/dbeaver.png)
  
  [DBeaver](Resources/dbeaver.png)
  
