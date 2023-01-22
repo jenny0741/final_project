@@ -110,7 +110,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   F1 score = 2TP / (2TP + FP + FN)  **F1 score = .82**
   
   
-![image](https://github.com/jenny0741/final_project/blob/main/Resources/classification_matrix.png)
+![image](https://github.com/jenny0741/final_project/blob/main/Resources/confusion_matrix.png)
  
  ### Random Forest
  
