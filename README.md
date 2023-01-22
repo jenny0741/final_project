@@ -86,32 +86,32 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
  <img src="Resources/confusion_matrix.png" width=300 height=200>
  
-   Calculating the accuracy:
+  #### Calculating the accuracy:
   
   Accuracy = TP + TN / (TP + TN + FP + FN)
   
   Accuracy = .75
   
   
-   Calculating the precision:
+  #### Calculating the precision:
    
   Precision = TP / TP + FP
   
   Precision = .79
   
-   Calculating the recall:
+  #### Calculating the recall:
    
   Recall = TP / TP + FN
   
   Recall = .85
   
-   Calculating the specificity:
+  #### Calculating the specificity:
    
   Specificity = TN / TN + FP
   
   Specificity = .53
   
-   Calculating the F1 score:
+  #### Calculating the F1 score:
    
   F1 score = 2TP / 2TP + FP + FN
   
