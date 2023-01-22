@@ -80,8 +80,8 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
   ### Confusion Matrix
   
-  One of the most important classification measures is confusion matrices.  The confusion matrix produces the four important numbers of 
- true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  This predicted values are compared to the model actual values.
+  One of the most important classification measures is confusion matrix.  The confusion matrix produces the four important numbers of 
+ true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  These values are used to calculate the accuracy and prec.
   
   
  <img src="Resources/confusion_matrix.png" width=300 height=200>
