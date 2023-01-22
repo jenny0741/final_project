@@ -94,6 +94,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   Accuracy = .75
   
+  
     Calculating the precision of the model can be done using the following equation:
    
   Precision = TP / TP + FP
