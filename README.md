@@ -97,7 +97,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   #### Calculating the precision:
    
-  Precision = TP / (TP + FP)  **Precision = .79**
+  Precision = TP / (TP + FP)  **Precision = .63**
   
   
   #### Calculating the recall:
@@ -112,7 +112,7 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   #### Calculating the F1 score:
    
-  F1 score = 2 * (precision * sensitivity)  / (precision + sensitivity)  **F1 score = .63**
+  F1 score = 2 * (precision * sensitivity)  / (precision + sensitivity)  **F1 score = .58**
   
   #### Classification Report
 ![image](https://github.com/jenny0741/final_project/blob/main/Resources/classification_matrix.png)
