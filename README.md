@@ -72,21 +72,25 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  [Server engine link](Resources/server_link.png)
  
- ## Machine Learning Model
+ ## Supervised Machine Learning Model
  
  The type of machine learning used will be Supervised.   Since the dataset columns were labeled, this gave the ability to use supervised learning to predict
  wheather a patient might or might not have heart disease.   Since the datasets were not continuous, a classification method will be used for predicting a
  discrete outcome.  
  
-  ### Confusion Matrix
+ ### Logistic Regression
+ 
+ ![image](https://github.com/jenny0741/final_project/blob/main/Resources/logistic_regression.png)
+ 
+  ### Confusion Matrix for logistic regression
   
   One of the most important classification measures is confusion matrix.  The confusion matrix produces the four important numbers of 
  true positive(TP), true negative (TN), false positive (FP), and flase negative (FN).  These values are used to calculate the accuracy and prec.
-  
+ 
+ ![image](https://github.com/jenny0741/final_project/blob/main/Resources/confusion_matrix.png)
  
   #### Calculating the accuracy:
   
-  ![image](https://github.com/jenny0741/final_project/blob/main/Resources/confusion_matrix.png)
   
   Accuracy = TP + TN / (TP + TN + FP + FN)  **Accuracy = .75**
   
