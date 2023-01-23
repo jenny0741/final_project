@@ -105,14 +105,14 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   Recall = TP / (TP + FN)  **Recall = .85**
   
   
-  #### Calculating the specificity:
+  #### Calculating the sensitivity:
    
-  sensitivity = TP / (TP + FN)  **Specificity = .53**
+  Sensitivity = TP / (TP + FN)  **Sensitivity = .53**
   
   
   #### Calculating the F1 score:
    
-  F1 score = 2TP / ( + FP + FN)  **F1 score = .82**
+  F1 score = 2 * (precision * sensitivity)  / (precision + sensitivity)  **F1 score = .63**
   
   #### Classification Report
 ![image](https://github.com/jenny0741/final_project/blob/main/Resources/classification_matrix.png)
