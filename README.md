@@ -107,17 +107,17 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   
   #### Calculating the specificity:
    
-  Specificity = TN / (TN + FP)  **Specificity = .53**
+  sensitivity = TP / (TP + FN)  **Specificity = .53**
   
   
   #### Calculating the F1 score:
    
-  F1 score = 2TP / (2TP + FP + FN)  **F1 score = .82**
+  F1 score = 2TP / ( + FP + FN)  **F1 score = .82**
   
-  
+  #### Classification Report
 ![image](https://github.com/jenny0741/final_project/blob/main/Resources/classification_matrix.png)
  
- ### Random Forest
+ ### Random Forest 
  
 ![image](https://github.com/jenny0741/final_project/blob/main/Resources/random_forest.png)
 
