@@ -92,25 +92,25 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
   #### Calculating the accuracy:
   
   
-  Accuracy = TP + TN / (TP + TN + FP + FN)  **Accuracy = .75**
+  Accuracy = TP + TN / (TP + TN + FP + FN)  **Accuracy of (0) = .75**
   
   
-  #### Calculating the precision:
+  #### Calculating the precision of (1):
    
   Precision = TP / (TP + FP)  **Precision = .63**
   
   
-  #### Calculating the recall:
+  #### Calculating the recall of (1):
    
   Recall = TP / (TP + FN)  **Recall = .85**
   
   
-  #### Calculating the sensitivity:
+  #### Calculating the sensitivity of (1):
    
   Sensitivity = TP / (TP + FN)  **Sensitivity = .53**
   
   
-  #### Calculating the F1 score:
+  #### Calculating the F1 score of (1):
    
   F1 score = 2 * (precision * sensitivity)  / (precision + sensitivity)  **F1 score = .58**
   
