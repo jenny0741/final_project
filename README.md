@@ -64,6 +64,12 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  * thal: maximum heart rate achieved DROPPED
  * num:  diagnosis of heart disease
  
+ ### ERD
+ 
+ The four data sets in this project were joined with cancantonation.   All the dtasets had the same columns which made this task simple to do.
+ 
+ ![image](https://github.com/jenny0741/final_project/blob/main/Resources/ERD.png)
+ 
  ## SQL and Database
  
  [ElephantSQL](Resources/elephant.png)
