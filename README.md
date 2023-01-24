@@ -66,7 +66,8 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ### ERD
  
- The four data sets in this project were joined with cancantonation.   All the dtasets had the same columns which made this task simple to do.
+ The four datasets in this project were joined with cancantonation.   The reason for this was the four datasets did not have a common key feature which related them.
+ Since the data was in the same column names and data type, the datasets were joined using cancantonation which simple stacked them into one dataset.
  
  ![image](https://github.com/jenny0741/final_project/blob/main/Resources/ERD.png)
  
