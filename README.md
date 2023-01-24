@@ -37,7 +37,7 @@ before analysis.   The dataset had columns which contained null values.   These 
 four datasets.   We also added a columns for location.   Since the datasets were regional, the dataset can be used to further corrolate geogrphical
 location with heart disease.
 
-[Cleaveland dataset csv](Resources/processed_cleveland.csv)
+[Cleveland dataset csv](Resources/processed_cleveland.csv)
 
 [Switzerland dataset csv](Resources/processed_switzerland.csv)
 
