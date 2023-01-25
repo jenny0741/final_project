@@ -25,10 +25,10 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  for scale, the diagnosis of heart disease (num) can be accomplished by using different machine learning algorithms.
 
 ## Research Question(s)
-1. Does the age of the patient contribute to a heart attack?
-2. Does the level of blood sugar (FBS) in the patient contribute to a heart attack?
-3. Does a higher cholestoral level contribute to a heart attack?
-4. Can the level of chest pain be related to the risk of a heart attack?
+1. Does the age of the patient contribute to heart disease?
+2. Does the level of blood sugar (FBS) in the patient contribute to heart disease?
+3. Does a higher cholestoral level contribute to heart disease?
+4. Can the level of chest pain be related to the risk of heart disease?
 5. Does the location of the patient correlate with the risk of heart disease?
 
 ## Data Source
