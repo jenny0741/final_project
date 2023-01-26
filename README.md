@@ -25,10 +25,10 @@ plaques build up and block the blood flow from the heart.  Some of the symtoms o
  for scale, the diagnosis of heart disease (num) can be accomplished by using different machine learning algorithms.
 
 ## Research Question(s)
-1. Does the age of the patient contribute to a heart attack?
-2. Does the level of blood sugar (FBS) in the patient contribute to a heart attack?
-3. Does a higher cholestoral level contribute to a heart attack?
-4. Can the level of chest pain be related to the risk of a heart attack?
+1. Does the age of the patient contribute to heart disease?
+2. Does the level of blood sugar (FBS) in the patient contribute to heart disease?
+3. Does a higher cholestoral level contribute to heart disease?
+4. Can the level of chest pain be related to the risk of heart disease?
 5. Does the location of the patient correlate with the risk of heart disease?
 
 ## Data Source
@@ -37,7 +37,7 @@ before analysis.   The dataset had columns which contained null values.   These 
 four datasets.   We also added a columns for location.   Since the datasets were regional, the dataset can be used to further corrolate geogrphical
 location with heart disease.
 
-[Cleaveland dataset csv](Resources/processed_cleveland.csv)
+[Cleveland dataset csv](Resources/processed_cleveland.csv)
 
 [Switzerland dataset csv](Resources/processed_switzerland.csv)
 
@@ -66,10 +66,9 @@ _Source_ https://archive.ics.uci.edu/ml/datasets/heart+disease
  
  ### ERD
  
- The four datasets in this project were joined with cancantonation.   The reason for this was the four datasets did not have a common key feature which related them.
- Since the data was in the same column names and data type, the datasets were joined using cancantonation which simple stacked them into one dataset.
+ The four datasets in this project were joined with concatenation. The reason for this was the four datasets did not have a single common key feature which related them. Since the data was in the same column names and data type, the datasets were joined using concatenation which simply stacked them into one dataset.
  
- ![image](https://github.com/jenny0741/final_project/blob/main/Resources/ERD.png)
+ ![image](https://github.com/jenny0741/final_project/blob/main/Resources/erd_heart_disease.png)
  
  ## SQL and Database
  
